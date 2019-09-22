@@ -1,0 +1,11 @@
+**/.idea/**
+**/__pycache__/**
+**/.ipynb_checkpoints/**
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
